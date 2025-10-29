@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Character problem (subroutines task)", "Character problem (subroutines task)\Character problem (subroutines task).csproj", "{C56E5497-CBB0-4867-B93A-2FA9518FFC07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C56E5497-CBB0-4867-B93A-2FA9518FFC07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C56E5497-CBB0-4867-B93A-2FA9518FFC07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C56E5497-CBB0-4867-B93A-2FA9518FFC07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C56E5497-CBB0-4867-B93A-2FA9518FFC07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34CAB5E5-99CF-4229-A2DE-71F01F1C4D6F}
+	EndGlobalSection
+EndGlobal

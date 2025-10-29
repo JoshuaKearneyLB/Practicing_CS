@@ -1,0 +1,14 @@
+C:\Users\joshd\source\repos\Ball pit problem (Subroutines task)\Ball pit problem (Subroutines task)\bin\Debug\netcoreapp3.1\Ball pit problem (Subroutines task).exe
+C:\Users\joshd\source\repos\Ball pit problem (Subroutines task)\Ball pit problem (Subroutines task)\bin\Debug\netcoreapp3.1\Ball pit problem (Subroutines task).deps.json
+C:\Users\joshd\source\repos\Ball pit problem (Subroutines task)\Ball pit problem (Subroutines task)\bin\Debug\netcoreapp3.1\Ball pit problem (Subroutines task).runtimeconfig.json
+C:\Users\joshd\source\repos\Ball pit problem (Subroutines task)\Ball pit problem (Subroutines task)\bin\Debug\netcoreapp3.1\Ball pit problem (Subroutines task).runtimeconfig.dev.json
+C:\Users\joshd\source\repos\Ball pit problem (Subroutines task)\Ball pit problem (Subroutines task)\bin\Debug\netcoreapp3.1\Ball pit problem (Subroutines task).dll
+C:\Users\joshd\source\repos\Ball pit problem (Subroutines task)\Ball pit problem (Subroutines task)\bin\Debug\netcoreapp3.1\Ball pit problem (Subroutines task).pdb
+C:\Users\joshd\source\repos\Ball pit problem (Subroutines task)\Ball pit problem (Subroutines task)\obj\Debug\netcoreapp3.1\Ball pit problem (Subroutines task).csproj.AssemblyReference.cache
+C:\Users\joshd\source\repos\Ball pit problem (Subroutines task)\Ball pit problem (Subroutines task)\obj\Debug\netcoreapp3.1\Ball pit problem (Subroutines task).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshd\source\repos\Ball pit problem (Subroutines task)\Ball pit problem (Subroutines task)\obj\Debug\netcoreapp3.1\Ball pit problem (Subroutines task).AssemblyInfoInputs.cache
+C:\Users\joshd\source\repos\Ball pit problem (Subroutines task)\Ball pit problem (Subroutines task)\obj\Debug\netcoreapp3.1\Ball pit problem (Subroutines task).AssemblyInfo.cs
+C:\Users\joshd\source\repos\Ball pit problem (Subroutines task)\Ball pit problem (Subroutines task)\obj\Debug\netcoreapp3.1\Ball pit problem (Subroutines task).csproj.CoreCompileInputs.cache
+C:\Users\joshd\source\repos\Ball pit problem (Subroutines task)\Ball pit problem (Subroutines task)\obj\Debug\netcoreapp3.1\Ball pit problem (Subroutines task).dll
+C:\Users\joshd\source\repos\Ball pit problem (Subroutines task)\Ball pit problem (Subroutines task)\obj\Debug\netcoreapp3.1\Ball pit problem (Subroutines task).pdb
+C:\Users\joshd\source\repos\Ball pit problem (Subroutines task)\Ball pit problem (Subroutines task)\obj\Debug\netcoreapp3.1\Ball pit problem (Subroutines task).genruntimeconfig.cache

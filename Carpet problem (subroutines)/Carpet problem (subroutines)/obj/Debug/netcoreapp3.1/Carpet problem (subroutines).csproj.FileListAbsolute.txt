@@ -1,0 +1,14 @@
+C:\Users\joshd\source\repos\Carpet problem (subroutines)\Carpet problem (subroutines)\bin\Debug\netcoreapp3.1\Carpet problem (subroutines).exe
+C:\Users\joshd\source\repos\Carpet problem (subroutines)\Carpet problem (subroutines)\bin\Debug\netcoreapp3.1\Carpet problem (subroutines).deps.json
+C:\Users\joshd\source\repos\Carpet problem (subroutines)\Carpet problem (subroutines)\bin\Debug\netcoreapp3.1\Carpet problem (subroutines).runtimeconfig.json
+C:\Users\joshd\source\repos\Carpet problem (subroutines)\Carpet problem (subroutines)\bin\Debug\netcoreapp3.1\Carpet problem (subroutines).runtimeconfig.dev.json
+C:\Users\joshd\source\repos\Carpet problem (subroutines)\Carpet problem (subroutines)\bin\Debug\netcoreapp3.1\Carpet problem (subroutines).dll
+C:\Users\joshd\source\repos\Carpet problem (subroutines)\Carpet problem (subroutines)\bin\Debug\netcoreapp3.1\Carpet problem (subroutines).pdb
+C:\Users\joshd\source\repos\Carpet problem (subroutines)\Carpet problem (subroutines)\obj\Debug\netcoreapp3.1\Carpet problem (subroutines).csproj.AssemblyReference.cache
+C:\Users\joshd\source\repos\Carpet problem (subroutines)\Carpet problem (subroutines)\obj\Debug\netcoreapp3.1\Carpet problem (subroutines).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshd\source\repos\Carpet problem (subroutines)\Carpet problem (subroutines)\obj\Debug\netcoreapp3.1\Carpet problem (subroutines).AssemblyInfoInputs.cache
+C:\Users\joshd\source\repos\Carpet problem (subroutines)\Carpet problem (subroutines)\obj\Debug\netcoreapp3.1\Carpet problem (subroutines).AssemblyInfo.cs
+C:\Users\joshd\source\repos\Carpet problem (subroutines)\Carpet problem (subroutines)\obj\Debug\netcoreapp3.1\Carpet problem (subroutines).csproj.CoreCompileInputs.cache
+C:\Users\joshd\source\repos\Carpet problem (subroutines)\Carpet problem (subroutines)\obj\Debug\netcoreapp3.1\Carpet problem (subroutines).dll
+C:\Users\joshd\source\repos\Carpet problem (subroutines)\Carpet problem (subroutines)\obj\Debug\netcoreapp3.1\Carpet problem (subroutines).pdb
+C:\Users\joshd\source\repos\Carpet problem (subroutines)\Carpet problem (subroutines)\obj\Debug\netcoreapp3.1\Carpet problem (subroutines).genruntimeconfig.cache
